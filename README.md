@@ -35,4 +35,12 @@ This project simulates a real-world car rental system where users can browse car
 ---
 
 ## 📂 Project Structure
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/5947d0c7-9435-4f73-b7f9-74480b1a5062" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/d74d5017-36a5-47e0-8a6a-ae9d8fea33e4" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/09e56d36-d90d-4e2c-8bc9-5cc93480a863" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/acc64db8-7a12-44f7-8db8-6414d503459e" />
+
+
+
+
 
